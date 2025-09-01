@@ -31,3 +31,10 @@ python game.py
 La próxima versión V1.1
 estará estructuralmente dividida
 en carpetas diferentes (wip)
+
+## In Game:
+<img width="819" height="636" alt="image" src="https://github.com/user-attachments/assets/ab115cab-2a03-4193-8283-aced06eb12a8" />
+## Game Over:
+<img width="811" height="630" alt="image" src="https://github.com/user-attachments/assets/a349988a-1a07-4a9d-a5e0-659042b193a5" />
+
+
