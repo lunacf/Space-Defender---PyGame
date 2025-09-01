@@ -1,0 +1,4 @@
+space-defender/
+├── game.py                 # ✅ Juego principal
+├── requirements.txt        # ✅ Dependencias
+├── README.md               # ✅ Documentación
